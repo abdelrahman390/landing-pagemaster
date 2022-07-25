@@ -277,7 +277,7 @@ width: 400px;
 
 /* footer end */
 
-@media (max-width: 375px){
+@media (max-width: 400px){
 
     .max-width{
         width: 350px;
