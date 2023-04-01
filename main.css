@@ -398,6 +398,7 @@ width: 400px;
     .footer .container{
         align-items: flex-start;
         flex-direction: column;
+        padding-top: 20px;
     }
 
     .footer .container .box1{
@@ -410,10 +411,12 @@ width: 400px;
         flex-direction: column;
         justify-content: center;
         padding-bottom: 60px;
+        flex-direction: unset;
+        justify-content: flex-start;
     }
 
     .footer .container .box2 a{
-        padding: 4px;
+        padding: 8px;
     }
 
     .footer .container .box3{
@@ -425,16 +428,4 @@ width: 400px;
         padding-bottom: 30px;
     }
     /* footer end */
-
-
-
-
-
 }
-
-
-
-
-
-
-
